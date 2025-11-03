@@ -1,10 +1,10 @@
 #  Sales Prediction
-### 👋 Hi, I’m Mohammed Zeeshan  
+### I’m Mohammed Zeeshan  
 This is my **Data Science Internship Project** with **CodSoft**, where I explored how data can help predict sales and guide smarter business decisions.
 
 ---
 
-## 📘 About This Project  
+## About This Project  
 This project predicts how much a product will sell based on how much is spent on **TV, Radio, and Newspaper advertising**.  
 
 It may sound simple, but this kind of prediction is exactly what companies use to plan their marketing budgets.  
@@ -12,7 +12,7 @@ Using past data, my model learns how different types of advertising affect sales
 
 ---
 
-## 🔍 Step-by-Step Overview  
+## Step-by-Step Overview  
 1. **Data Collection** – I worked with a dataset of 200 records showing ad spending and product sales.  
 2. **Data Exploration** – I checked patterns, correlations, and relationships between variables.  
 3. **Feature Engineering** – Created extra columns like total ad spend, spending ratios, and interaction effects.  
@@ -23,7 +23,7 @@ Using past data, my model learns how different types of advertising affect sales
 
 ---
 
-## 💡 What I Learned  
+## What I Learned  
 - How to clean and analyze data with **pandas** and **NumPy**.  
 - How **machine learning** models learn patterns from data.  
 - How visualizations make insights easy to understand.  
@@ -32,7 +32,7 @@ Using past data, my model learns how different types of advertising affect sales
 
 ---
 
-## ⚙️ Tools and Libraries Used  
+## Tools and Libraries Used  
 - **Python**  
 - **Pandas**, **NumPy**  
 - **Matplotlib**, **Seaborn**  
@@ -40,7 +40,7 @@ Using past data, my model learns how different types of advertising affect sales
 
 ---
 
-## 📊 Results in Simple Words  
+## Results in Simple Words  
 The model learned that:
 - **TV and Radio ads** have the biggest effect on sales.  
 - **Newspaper ads** don’t influence much.  
@@ -48,7 +48,7 @@ The model learned that:
 
 ---
 
-## 🌐 Dataset Source  
+## Dataset Source  
 The dataset is stored publicly on GitHub for easy access.  
 You don’t need to upload it manually — the notebook loads it automatically from this link:  
 
@@ -56,7 +56,7 @@ You don’t need to upload it manually — the notebook loads it automatically f
 
 ---
 
-## 🚀 How to Run This Project  
+## How to Run This Project  
 1. Open the notebook in **Google Colab**:  
    👉 [Click Here to Open in Colab](https://colab.research.google.com/github/z33shxn/Sales-Prediction-CodSoft-/blob/main/Sales_Prediction_Project.ipynb)  
 2. Click **Runtime → Run all**.  
@@ -64,21 +64,21 @@ You don’t need to upload it manually — the notebook loads it automatically f
 
 ---
 
-## 🧩 Why This Project Is Unique  
+## Why This Project Is Unique  
 Every line of code was written and tested by me.  
 I didn’t copy templates — I built each step by understanding what it does and why it matters.  
 My goal was to make this project simple enough for anyone to understand, yet detailed enough to look professional.
 
 ---
 
-## 🙌 A Small Reflection  
+## A Small Reflection  
 Before this project, I only saw data as numbers.  
 Now, I see it as a way to **tell stories and make smarter choices**.  
 This project taught me not just how to code — but how to think like a problem solver.
 
 ---
 
-## 📩 Contact  
+## Contact  
 📧 **mohammedzeeshan.cse2024@citchennai.net**  
 💼 [LinkedIn Profile](www.linkedin.com/in/mohammed-zeeshan-75602632a)
 
