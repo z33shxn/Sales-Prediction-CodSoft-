@@ -79,8 +79,8 @@ This project taught me not just how to code — but how to think like a problem 
 ---
 
 ## 📩 Contact  
-📧 **mohammedzeeshan.business@gmail.com**  
-💼 [LinkedIn Profile](https://linkedin.com/in/your-link) *(replace with your actual LinkedIn link)*  
+📧 **mohammedzeeshan.cse2024@citchennai.net**  
+💼 [LinkedIn Profile](www.linkedin.com/in/mohammed-zeeshan-75602632a)
 
 ---
 
